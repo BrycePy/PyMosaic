@@ -17,5 +17,3 @@ A python script for generating mosaic art.
 > [download full image here (~95MB)](https://cdn.discordapp.com/attachments/789490795903844382/934748291713875978/output.jpeg)
 > 
 > ![input](output_min.jpg)
-
-## Settings
