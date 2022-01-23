@@ -10,9 +10,10 @@
 /tiles_mix
 /tiles_temp
 render.py
-.gitignore
 **.png
 **.jpeg
 **.jpg
 **.json
-__pycache__
+__pycache__/settings.cpython-38.pyc
+__pycache__/calculate_tile.cpython-38.pyc
+render_ori.py
