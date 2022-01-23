@@ -1,12 +1,18 @@
+# Directory containing images file (png/jpeg/gif/etc)
+TILES_DIRECTORY = "tiles_example"
 
-TILES_DIRECTORY = "tiles_mix"
-
+# Maximum number of tile per row or column.
 MAX_TILES = 200
-AVOID_ROW_DUPE = True
+
+# Width and height in pixels of a tile.
+TILE_WIDTH = 100
+
+# Avoid using the same tile image again the the same row.
+AVOID_ROW_DUPE = False
+
+# 0 noise level mean only use nearest color
 NOISE_LEVEL = 3000
 
-INPUT_FILE = "142072949-288-k241713.jpg"
+INPUT_FILE = "input.jpg"
 OUTPUT_FILE = "output.jpeg"
 OUTPUT_OPTIMIZE = True
-
-TILE_WIDTH = 200
